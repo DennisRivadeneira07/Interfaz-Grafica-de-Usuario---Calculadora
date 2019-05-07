@@ -3,7 +3,7 @@ package ec.edu.ups.vista;
 
 /**
  *
- * @author Iván Sánchez
+ * @author Dennis Andres Rivadeneira
  */
 public class Calculadora extends javax.swing.JFrame {
 
